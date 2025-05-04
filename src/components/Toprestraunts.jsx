@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { FaArrowLeftLong, FaArrowRight } from "react-icons/fa6";
-import Card from './card';
+import Card from './Card.jsx';
 
 const Toprestraunts = () => {
     const [restaurants, setRestaurants] = useState([]);

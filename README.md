@@ -33,7 +33,7 @@ Swiggy/
 🛒 Cart preview section (static or dynamic depending on implementation)
 
 🌙 Clean and modern UI layout
-
+By Shaikh Aman
 🔄 Easy scalability for backend/API integration
 
 📸 Preview
